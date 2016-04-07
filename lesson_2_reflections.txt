@@ -30,5 +30,9 @@ waht can be checked out
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+mergin 2 branches combines them
+both nodes can be reached from the new head
+side branch is not needed anymore
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
