@@ -36,3 +36,7 @@ side branch is not needed anymore
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+git merges auto only when 100% sure
+if conflict, let user decide
+removes some simple tasks
