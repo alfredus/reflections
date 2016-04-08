@@ -25,7 +25,8 @@ to change or use without affecting original
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+to identify what other people changed/added remotely
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
