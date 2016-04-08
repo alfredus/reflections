@@ -31,7 +31,9 @@ to identify what other people changed/added remotely
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+if many people work together it would be really hard
+hard to make forks and see differences
+every one has to change files locally and them compare
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
